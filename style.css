@@ -1,0 +1,28 @@
+h1 {
+    padding-bottom: 40px;
+}
+
+button,
+.result {
+    height: 60px;
+}
+
+.symbol {
+    background-color: rgba(152, 146, 146, 0.545);
+}
+
+.clear {
+    background-color: rgb(241, 144, 144)
+}
+
+.all-clear {
+    background-color: rgb(245, 71, 71);
+}
+
+.equal {
+    background-color: rgb(79, 92, 231)
+}
+
+.result {
+    border: 2px solid black;
+}
